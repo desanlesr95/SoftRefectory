@@ -1,0 +1,24 @@
+.nombre{
+    color: #f44e42;
+    font-family: Arial;
+    text-align: center;
+}
+.fondo{
+	background-color: #5B5B5B;
+}
+.blanco{
+	background-color: #FFFFFF;
+}
+.centrado{
+	text-align: center;
+}
+.justificado{
+	text-align: justify;
+}
+
+.blanco{
+ color: white;
+}
+.izquierda{
+	margin-right: -19px;
+}
